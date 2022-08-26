@@ -1,8 +1,8 @@
 {
-  "name": "react",
+  "name": "react-js-sample",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": ["react", "starter"],
+  "description": "vanilla→react変換用サンプル",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "18.2.0",
