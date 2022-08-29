@@ -1,2 +1,2 @@
-# react-js-sample
+# react-tutorial
 Created with CodeSandbox
